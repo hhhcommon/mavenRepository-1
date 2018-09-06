@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>loan-parent</artifactId>
+    <groupId>com.hsjry</groupId>
+    <version>1.2.2-SNAPSHOT</version>
+    <relativePath>../../loan-parent/pom.xml</relativePath>
+  </parent>
+  <groupId>com.hsjry</groupId>
+  <artifactId>loan-common-exception</artifactId>
+  <version>1.2.2-SNAPSHOT</version>
+  <name>loan-common-exception</name>
+  <description>云融微贷平台公共异常定义模块</description>
+  <dependencies>
+  <dependency>
+	<groupId>org.tinygroup</groupId>
+	<artifactId>org.tinygroup.commons</artifactId>
+  </dependency>
+  <dependency>
+  	<groupId>org.tinygroup</groupId>
+	<artifactId>org.tinygroup.exception</artifactId>
+  </dependency>
+  </dependencies>
+</project>

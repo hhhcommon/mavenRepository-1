@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.wandaph</groupId>
+    <artifactId>wandaph-dsp-parent</artifactId>
+    <version>1.0.0.20180906-SNAPSHOT</version>
+  </parent>
+  <artifactId>wandaph-dsp-facade-pojo</artifactId>
+  <dependencies>
+    <dependency>
+      <groupId>net.sf.oval</groupId>
+      <artifactId>oval</artifactId>
+    </dependency>
+      <dependency>
+          <groupId>hsjry.lang</groupId>
+          <artifactId>hsjry-lang-common</artifactId>
+      </dependency>
+  </dependencies>
+</project>
