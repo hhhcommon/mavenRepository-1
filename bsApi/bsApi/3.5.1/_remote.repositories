@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 27 14:18:34 CST 2018
+bsApi-3.5.1-shaded.jar>nexus=
+bsApi-3.5.1.pom>nexus=
