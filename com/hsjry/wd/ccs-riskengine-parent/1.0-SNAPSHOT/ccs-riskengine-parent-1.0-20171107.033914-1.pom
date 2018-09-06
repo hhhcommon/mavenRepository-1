@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ccs-core-parent</artifactId>
+        <groupId>com.hsjry.wd</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>ccs-riskengine-parent</artifactId>
+    <packaging>pom</packaging>
+ 	<name>${project.artifactId}-wd</name>
+    <modules>
+        <module>ccs-riskengine-common</module>
+        <module>ccs-riskengine-biz</module>
+        <module>ccs-riskengine-core</module>
+        <module>ccs-riskengine-dal</module>
+        <module>ccs-riskengine-facade</module>
+        <module>ccs-riskengine-facade-pojo</module>
+        <module>ccs-riskengine-facade-impl</module>
+        <module>ccs-riskengine-deploy</module>
+    </modules>
+
+<!-- 仓库地址 -->
+	<repositories>
+		<repository>
+			<id>nexus</id>
+			<name>Team Nexus Repository</name>
+			<url>http://10.214.169.81:8081/nexus/content/groups/public</url>
+		</repository>
+	</repositories>
+
+	<!-- 插件地址 -->
+	<pluginRepositories>
+		<pluginRepository>
+			<id>nexus</id>
+			<name>Team Nexus Repository</name>
+			<url>http://10.214.169.81:8081/nexus/content/groups/public</url>
+		</pluginRepository>
+	</pluginRepositories>
+
+	<!-- 自动发布至仓库 [需要到setting中添加用户名和密码] -->
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<url>http://10.53.145.181:8081/nexus/content/repositories/releases</url>
+		</repository>
+
+		<snapshotRepository>
+			<id>snapshots</id>
+			<url>http://10.53.145.181:8081/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+</project>
