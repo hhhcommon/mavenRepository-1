@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 27 14:19:03 CST 2018
+jetty-util-6.1.25.jar>central=
+jetty-util-6.1.25.pom>central=
+jetty-util-6.1.25.pom>nexus=
+jetty-util-6.1.25.jar>nexus=
