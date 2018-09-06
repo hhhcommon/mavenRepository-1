@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.channels</groupId>
+  <artifactId>hsjry-credit-parent</artifactId>
+  <version>1.0.0.20180906-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180831.033245</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <lastUpdated>20180831033245</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180906-20180831.033245-7</value>
+        <updated>20180831033245</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

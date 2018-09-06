@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.lang</groupId>
+  <artifactId>hsjry-lang-redis</artifactId>
+  <version>1.0.0.20180906-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180830.092947</timestamp>
+      <buildNumber>6</buildNumber>
+    </snapshot>
+    <lastUpdated>20180830092947</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180830.092947-6</value>
+        <updated>20180830092947</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180906-20180830.092947-6</value>
+        <updated>20180830092947</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180830.092947-6</value>
+        <updated>20180830092947</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

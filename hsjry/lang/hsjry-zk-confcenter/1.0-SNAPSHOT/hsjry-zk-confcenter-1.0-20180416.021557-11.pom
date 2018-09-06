@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>hsjry.lang</groupId>
+		<artifactId>hsjry-lang-zk</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>hsjry-zk-confcenter</artifactId>
+	<dependencies>
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-zk-zkclient</artifactId>
+			<version>1.0-SNAPSHOT</version>
+			<exclusions>
+				<exclusion>
+					<artifactId>slf4j-log4j12</artifactId>
+					<groupId>org.slf4j</groupId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-zk-common</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-lang-log</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+		</dependency>
+	</dependencies>
+</project>

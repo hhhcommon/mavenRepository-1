@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.core</groupId>
+  <artifactId>hsjry-asset-facade-pojo</artifactId>
+  <version>1.0.0.20180906-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180901.093433</timestamp>
+      <buildNumber>12</buildNumber>
+    </snapshot>
+    <lastUpdated>20180901093433</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180901.093433-12</value>
+        <updated>20180901093433</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180906-20180901.093433-12</value>
+        <updated>20180901093433</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180901.093433-12</value>
+        <updated>20180901093433</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

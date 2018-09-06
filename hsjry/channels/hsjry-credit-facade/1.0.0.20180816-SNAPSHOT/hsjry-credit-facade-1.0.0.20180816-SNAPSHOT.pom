@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<parent>
+		<groupId>hsjry.channels</groupId>
+		<artifactId>hsjry-credit-parent</artifactId>
+		<version>1.0.0.20180816-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>hsjry-credit-facade</artifactId>
+	<modelVersion>4.0.0</modelVersion>
+
+	<dependencies>
+		<!-- credit -->
+		<dependency>
+			<groupId>hsjry.channels</groupId>
+			<artifactId>hsjry-credit-facade-pojo</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- lang -->
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-lang-aop</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-lang-common</artifactId>
+		</dependency>
+	</dependencies>
+</project>

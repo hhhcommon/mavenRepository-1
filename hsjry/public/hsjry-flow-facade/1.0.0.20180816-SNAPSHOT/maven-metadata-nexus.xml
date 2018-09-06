@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.public</groupId>
+  <artifactId>hsjry-flow-facade</artifactId>
+  <version>1.0.0.20180816-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180731.074306</timestamp>
+      <buildNumber>6</buildNumber>
+    </snapshot>
+    <lastUpdated>20180731074306</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180816-20180731.074306-6</value>
+        <updated>20180731074306</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180816-20180731.074306-6</value>
+        <updated>20180731074306</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

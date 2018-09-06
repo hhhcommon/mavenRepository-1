@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.lang</groupId>
+  <artifactId>hsjry-dispatch-receive-task-facade-ref</artifactId>
+  <version>1.0.0.20180906-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180829.005246</timestamp>
+      <buildNumber>5</buildNumber>
+    </snapshot>
+    <lastUpdated>20180829005246</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180829.005246-5</value>
+        <updated>20180829005246</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180906-20180829.005246-5</value>
+        <updated>20180829005246</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20180906-20180829.005246-5</value>
+        <updated>20180829005246</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

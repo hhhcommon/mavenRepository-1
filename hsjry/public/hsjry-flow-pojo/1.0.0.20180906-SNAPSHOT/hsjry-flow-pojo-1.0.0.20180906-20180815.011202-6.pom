@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>hsjry-flow-parent</artifactId>
+        <groupId>hsjry.public</groupId>
+        <version>1.0.0.20180816-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <version>1.0.0.20180906-SNAPSHOT</version>
+
+    <artifactId>hsjry-flow-pojo</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>net.sf.oval</groupId>
+            <artifactId>oval</artifactId>
+        </dependency>
+        <dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-lang-common</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.tinygroup</groupId>
+			<artifactId>org.tinygroup.context2object</artifactId>
+		</dependency>
+    </dependencies>
+
+</project>

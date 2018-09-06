@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<parent>
+		<groupId>hsjry.channels</groupId>
+		<artifactId>hsjry-credit-parent</artifactId>
+		<version>1.0.0.20180906-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>hsjry-credit-facade-pojo</artifactId>
+	<modelVersion>4.0.0</modelVersion>
+	<name>hsjry-credit-facade-pojo</name>
+	<url>http://maven.apache.org</url>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.oval</groupId>
+			<artifactId>oval</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+		</dependency>
+		<!-- asset -->
+		<dependency>
+			<groupId>hsjry.core</groupId>
+			<artifactId>hsjry-asset-facade-pojo</artifactId>
+		</dependency>
+		<!-- lang -->
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-lang-common</artifactId>
+		</dependency>
+	</dependencies>
+</project>
