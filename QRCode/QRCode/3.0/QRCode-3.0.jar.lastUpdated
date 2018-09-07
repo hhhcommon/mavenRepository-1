@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 27 14:13:32 CST 2018
+http\://repo.wdph.com/nexus/content/groups/public/.error=
+http\://repo.wdph.com/nexus/content/groups/public/.lastUpdated=1535350412387
+https\://repo.maven.apache.org/maven2/.lastUpdated=1535077493614
+https\://repo.maven.apache.org/maven2/.error=

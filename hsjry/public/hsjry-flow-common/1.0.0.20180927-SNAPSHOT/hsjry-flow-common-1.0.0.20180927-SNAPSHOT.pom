@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>hsjry-flow-parent</artifactId>
+        <groupId>hsjry.public</groupId>
+        <version>1.0.0.20180927-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>hsjry-flow-common</artifactId>
+
+    <dependencies>
+ 
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-exception</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-log</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-log</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-aop</artifactId>
+        </dependency>
+        <dependency>
+				<groupId>hsjry.lang</groupId>
+				<artifactId>hsjry-lang-tiny-rpc-proxy</artifactId>
+			</dependency>
+		<dependency>
+			<groupId>hsjry.lang</groupId>
+			<artifactId>hsjry-zk-confcenter</artifactId>
+		</dependency>
+		<dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-zk-serial</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>log4j</groupId>
+                    <artifactId>log4j</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.tinygroup</groupId>
+            <artifactId>org.tinygroup.tinyrunner</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>

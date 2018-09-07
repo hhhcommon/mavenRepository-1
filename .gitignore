@@ -1,1 +1,11 @@
 /org/apache
+/org/aspectj
+/org/dom4j
+/org/freemarker
+/org/eclipse
+/org/mongodb
+/org/mybatis
+/org/projectlombok
+/org/springframework
+/org/slf4j
+/redis

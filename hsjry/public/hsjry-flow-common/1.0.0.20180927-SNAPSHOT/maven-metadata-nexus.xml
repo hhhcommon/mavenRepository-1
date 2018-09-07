@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.public</groupId>
+  <artifactId>hsjry-flow-common</artifactId>
+  <version>1.0.0.20180927-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180903.014557</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20180903014557</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180927-20180903.014557-2</value>
+        <updated>20180903014557</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180927-20180903.014557-2</value>
+        <updated>20180903014557</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

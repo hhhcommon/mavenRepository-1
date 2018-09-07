@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.wandaph</groupId>
+  <artifactId>wandaph-dsp-facade</artifactId>
+  <version>1.0.0.20180927-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180905.072048</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20180905072048</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180927-20180905.072048-4</value>
+        <updated>20180905072048</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180927-20180905.072048-4</value>
+        <updated>20180905072048</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
