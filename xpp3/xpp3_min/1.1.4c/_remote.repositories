@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 07 09:34:31 CST 2018
+#Mon Aug 27 14:13:54 CST 2018
 xpp3_min-1.1.4c.jar>nexus=
 xpp3_min-1.1.4c.pom>nexus=
+xpp3_min-1.1.4c.jar>central=
+xpp3_min-1.1.4c.pom>central=
