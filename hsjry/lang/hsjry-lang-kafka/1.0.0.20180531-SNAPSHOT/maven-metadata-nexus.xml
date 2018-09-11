@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.lang</groupId>
+  <artifactId>hsjry-lang-kafka</artifactId>
+  <version>1.0.0.20180531-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180604.111001</timestamp>
+      <buildNumber>25</buildNumber>
+    </snapshot>
+    <lastUpdated>20180604111001</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180531-20180604.111001-25</value>
+        <updated>20180604111001</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180531-20180604.111001-25</value>
+        <updated>20180604111001</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20180531-20180604.111001-25</value>
+        <updated>20180604111001</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
