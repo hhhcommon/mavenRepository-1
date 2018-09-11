@@ -1,0 +1,10 @@
+<<<<<<< HEAD:org/scala-lang/scala-library/2.11.6/_remote.repositories
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 10 17:45:27 CST 2018
+scala-library-2.11.6.jar>nexus=
+scala-library-2.11.6.pom>nexus=
+=======
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 14:33:35 CST 2017
+jackson-bom-2.9.0.pom>central=
+>>>>>>> 9f872f76eafdc924f7e92c35eb089d389b3806e7:com/fasterxml/jackson/jackson-bom/2.9.0/_remote.repositories
