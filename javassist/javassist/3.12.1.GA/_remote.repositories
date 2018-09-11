@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Aug 27 14:18:15 CST 2018
-javassist-3.12.1.GA.jar>nexus=
+#Mon Sep 10 16:24:34 CST 2018
+javassist-3.12.1.GA-sources.jar>nexus=
 javassist-3.12.1.GA.pom>nexus=
+javassist-3.12.1.GA.jar>nexus=

@@ -6,10 +6,9 @@
     <parent>
         <groupId>hsjry.core</groupId>
         <artifactId>hsjry-asset-parent</artifactId>
-        <version>1.0.0.20180906-SNAPSHOT</version>
+        <version>1.0.0.20180927-SNAPSHOT</version>
     </parent>
     <artifactId>hsjry-asset-facade-pojo</artifactId>
-    <version>1.0.0.20180927-SNAPSHOT</version>
     <name>hsjry-asset-facade-pojo</name>
     <url>http://maven.apache.org</url>
     <properties>
