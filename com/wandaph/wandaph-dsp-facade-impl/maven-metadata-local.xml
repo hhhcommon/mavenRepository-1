@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wandaph</groupId>
+  <artifactId>wandaph-dsp-facade-impl</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.20180927-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180913113202</lastUpdated>
+  </versioning>
+</metadata>

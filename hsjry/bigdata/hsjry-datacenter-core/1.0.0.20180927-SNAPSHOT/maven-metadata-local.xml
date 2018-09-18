@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.bigdata</groupId>
+  <artifactId>hsjry-datacenter-core</artifactId>
+  <version>1.0.0.20180927-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20180917091057</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20180927-SNAPSHOT</value>
+        <updated>20180917091057</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20180927-SNAPSHOT</value>
+        <updated>20180917091057</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20180927-SNAPSHOT</value>
+        <updated>20180917091057</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
