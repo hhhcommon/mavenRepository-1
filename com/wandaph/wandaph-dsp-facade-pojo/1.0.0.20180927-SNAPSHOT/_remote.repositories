@@ -1,4 +1,10 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 07 09:34:39 CST 2018
+#Mon Sep 17 09:45:46 CST 2018
+wandaph-dsp-facade-pojo-1.0.0.20180927-SNAPSHOT.jar>=
+wandaph-dsp-facade-pojo-1.0.0.20180927-20180914.094158-10.pom>nexus=
+wandaph-dsp-facade-pojo-1.0.0.20180927-20180914.094158-10.jar>nexus=
+wandaph-dsp-facade-pojo-1.0.0.20180927-SNAPSHOT.pom>=
 wandaph-dsp-facade-pojo-1.0.0.20180927-20180905.043527-3.jar>nexus=
 wandaph-dsp-facade-pojo-1.0.0.20180927-20180905.043527-3.pom>nexus=
+wandaph-dsp-facade-pojo-1.0.0.20180927-20180913.023802-8.pom>nexus=
+wandaph-dsp-facade-pojo-1.0.0.20180927-20180913.023802-8.jar>nexus=
