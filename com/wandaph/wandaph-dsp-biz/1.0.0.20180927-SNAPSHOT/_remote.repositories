@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 13 19:32:02 CST 2018
+#Wed Sep 19 10:24:05 CST 2018
 wandaph-dsp-biz-1.0.0.20180927-SNAPSHOT.jar>=
 wandaph-dsp-biz-1.0.0.20180927-20180913.015640-3.pom>nexus=
+wandaph-dsp-biz-1.0.0.20180927-20180918.070820-6.pom>nexus=
+wandaph-dsp-biz-1.0.0.20180927-20180918.070820-6.jar>nexus=
 wandaph-dsp-biz-1.0.0.20180927-SNAPSHOT.pom>=
 wandaph-dsp-biz-1.0.0.20180927-20180913.015640-3.jar>nexus=

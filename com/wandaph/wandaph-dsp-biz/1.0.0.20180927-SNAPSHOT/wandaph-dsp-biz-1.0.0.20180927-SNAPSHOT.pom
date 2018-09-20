@@ -30,5 +30,9 @@
             <groupId>hsjry.bigdata</groupId>
             <artifactId>hsjry-datacenter-facade</artifactId>
         </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-async</artifactId>
+        </dependency>
 	</dependencies>
 </project>
