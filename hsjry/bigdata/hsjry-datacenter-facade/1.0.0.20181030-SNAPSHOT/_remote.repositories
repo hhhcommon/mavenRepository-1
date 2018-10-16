@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 15 15:56:00 CST 2018
+hsjry-datacenter-facade-1.0.0.20181030-SNAPSHOT.jar>=
+hsjry-datacenter-facade-1.0.0.20181030-20181011.020218-12.pom>nexus=
+hsjry-datacenter-facade-1.0.0.20181030-SNAPSHOT.pom>=
+hsjry-datacenter-facade-1.0.0.20181030-20181011.020218-12.jar>nexus=
+hsjry-datacenter-facade-1.0.0.20181030-SNAPSHOT-sources.jar>=

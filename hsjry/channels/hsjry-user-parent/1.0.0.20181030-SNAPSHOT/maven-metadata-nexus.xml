@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.channels</groupId>
+  <artifactId>hsjry-user-parent</artifactId>
+  <version>1.0.0.20181030-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180926.030634</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20180926030634</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20181030-20180926.030634-2</value>
+        <updated>20180926030634</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

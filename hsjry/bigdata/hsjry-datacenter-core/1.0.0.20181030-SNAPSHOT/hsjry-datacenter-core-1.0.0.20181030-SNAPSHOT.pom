@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>hsjry-datacenter-parent</artifactId>
+        <groupId>hsjry.bigdata</groupId>
+        <version>1.0.0.20181030-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>hsjry-datacenter-core</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-mq</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.esotericsoftware.reflectasm</groupId>
+            <artifactId>reflectasm</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.dangdang</groupId>
+            <artifactId>sharding-jdbc-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.bigdata</groupId>
+            <artifactId>hsjry-datacenter-facade</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-dispatch-receive-task-facade</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.bigdata</groupId>
+            <artifactId>hsjry-datacenter-dal</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-async</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>hsjry.lang</groupId>
+            <artifactId>hsjry-lang-common</artifactId>
+        </dependency>
+        
+         <dependency>
+                <groupId>com.wandaph</groupId>
+                <artifactId>wandaph-dsp-facade</artifactId>
+            </dependency>
+                
+             <dependency>
+                <groupId>com.wandaph</groupId>
+                <artifactId>wandaph-dsp-facade-pojo</artifactId>
+            </dependency>
+            
+             <dependency>
+                <groupId>hsjry.core</groupId>
+                <artifactId>hsjry-icdm-facade</artifactId> 
+            </dependency>
+                
+             <dependency>
+                <groupId>hsjry.core</groupId>
+                <artifactId>hsjry-icdm-facade-pojo</artifactId>
+            </dependency>
+
+            <dependency>
+			  <groupId>com.wandaph</groupId>
+			  <artifactId>wandaph-ocs-facade</artifactId>
+			  <version>${loan.version}</version>
+			</dependency>
+	        <!--  快易花需求暂时不上
+	        <dependency>
+			   <groupId>com.wandaph</groupId>
+			   <artifactId>api-loanmarket-facade-pojo</artifactId>
+			   <version>${loan.version}</version>
+			</dependency>
+			<dependency>
+			   <groupId>com.wandaph</groupId>
+			   <artifactId>api-loanmarket-facade</artifactId>
+			   <version>${loan.version}</version>
+			</dependency> -->
+    </dependencies>
+
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 10:31:45 CST 2018
+hsjry-datacenter-deploy-1.0.0.20181030-SNAPSHOT.pom>=
+hsjry-datacenter-deploy-1.0.0.20181030-SNAPSHOT.war>=
+hsjry-datacenter-deploy-1.0.0.20181030-SNAPSHOT-sources.jar>=

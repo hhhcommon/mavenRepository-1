@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>hsjry.bigdata</groupId>
+  <artifactId>hsjry-datacenter-facade-impl</artifactId>
+  <version>1.0.0.20181030-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20181009023125</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0.20181030-SNAPSHOT</value>
+        <updated>20181009023125</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.20181030-SNAPSHOT</value>
+        <updated>20181009023125</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20181030-SNAPSHOT</value>
+        <updated>20181009023125</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

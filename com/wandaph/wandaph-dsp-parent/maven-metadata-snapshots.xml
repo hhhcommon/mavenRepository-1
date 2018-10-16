@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wandaph</groupId>
+  <artifactId>wandaph-dsp-parent</artifactId>
+  <versioning>
+    <latest>1.0.0.20180712-SNAPSHOT</latest>
+    <release></release>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+      <version>1.0.0.20180426-SNAPSHOT</version>
+      <version>1.0.0.20180531-SNAPSHOT</version>
+      <version>1.0.0.20180614-SNAPSHOT</version>
+      <version>1.0.0.20180712-SNAPSHOT</version>
+      <version>1.0.0.20180724-SNAPSHOT</version>
+      <version>1.0.0.20180816-SNAPSHOT</version>
+      <version>1.0.0.20180906-SNAPSHOT</version>
+      <version>1.0.0.20180927-SNAPSHOT</version>
+      <version>1.0.0.20181030-SNAPSHOT</version>
+      <version>1.0.0.20181011-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181015032726</lastUpdated>
+  </versioning>
+</metadata>
