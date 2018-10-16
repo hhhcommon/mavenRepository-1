@@ -1,10 +1,12 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 20 09:36:30 CST 2018
-hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4.jar>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180906.070422-2.pom>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4-sources.jar>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180906.070422-2.jar>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180907.020639-3.pom>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180907.020639-3.jar>nexus=
-hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4.pom>nexus=
+#Wed Sep 26 11:31:30 CST 2018
 hsjry-zk-confcenter-1.0.0.20180927-20180907.020639-3-sources.jar>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180906.070422-2.pom>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4.pom>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180925.064349-5.pom>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180907.020639-3.jar>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180906.070422-2.jar>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4-sources.jar>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180925.064349-5.jar>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180907.020639-3.pom>nexus=
+hsjry-zk-confcenter-1.0.0.20180927-20180912.104107-4.jar>nexus=

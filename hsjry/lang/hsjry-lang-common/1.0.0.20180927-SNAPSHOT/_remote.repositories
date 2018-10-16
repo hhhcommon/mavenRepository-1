@@ -1,10 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 14 14:52:16 CST 2018
+#Wed Sep 26 11:31:30 CST 2018
 hsjry-lang-common-1.0.0.20180927-20180908.083630-6.jar>nexus=
-hsjry-lang-common-1.0.0.20180927-20180906.070415-3.jar>nexus=
-hsjry-lang-common-1.0.0.20180927-20180906.070415-3.pom>nexus=
-hsjry-lang-common-1.0.0.20180927-20180906.070415-3-sources.jar>nexus=
-hsjry-lang-common-1.0.0.20180927-20180908.083630-6-sources.jar>nexus=
-hsjry-lang-common-1.0.0.20180927-20180913.073710-12.pom>nexus=
-hsjry-lang-common-1.0.0.20180927-20180913.073710-12.jar>nexus=
 hsjry-lang-common-1.0.0.20180927-20180908.083630-6.pom>nexus=
+hsjry-lang-common-1.0.0.20180927-20180913.073710-12.jar>nexus=
+hsjry-lang-common-1.0.0.20180927-20180925.064341-15.pom>nexus=
+hsjry-lang-common-1.0.0.20180927-20180906.070415-3.pom>nexus=
+hsjry-lang-common-1.0.0.20180927-20180913.073710-12.pom>nexus=
+hsjry-lang-common-1.0.0.20180927-20180908.083630-6-sources.jar>nexus=
+hsjry-lang-common-1.0.0.20180927-20180906.070415-3-sources.jar>nexus=
+hsjry-lang-common-1.0.0.20180927-20180925.064341-15.jar>nexus=
+hsjry-lang-common-1.0.0.20180927-20180913.073710-12-sources.jar>nexus=
+hsjry-lang-common-1.0.0.20180927-20180906.070415-3.jar>nexus=

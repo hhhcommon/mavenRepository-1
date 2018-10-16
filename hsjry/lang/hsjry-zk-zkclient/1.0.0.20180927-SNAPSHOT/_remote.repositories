@@ -1,10 +1,12 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 20 09:37:34 CST 2018
-hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3.pom>nexus=
-hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3-sources.jar>nexus=
-hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3.jar>nexus=
-hsjry-zk-zkclient-1.0.0.20180927-20180912.104103-4.pom>nexus=
+#Wed Sep 26 11:31:30 CST 2018
+hsjry-zk-zkclient-1.0.0.20180927-20180925.064347-5.pom>nexus=
 hsjry-zk-zkclient-1.0.0.20180927-20180912.104103-4-sources.jar>nexus=
-hsjry-zk-zkclient-1.0.0.20180927-20180912.104103-4.jar>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180912.104103-4.pom>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3-sources.jar>nexus=
 hsjry-zk-zkclient-1.0.0.20180927-20180906.070421-2.pom>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3.jar>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180925.064347-5.jar>nexus=
 hsjry-zk-zkclient-1.0.0.20180927-20180906.070421-2.jar>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180912.104103-4.jar>nexus=
+hsjry-zk-zkclient-1.0.0.20180927-20180907.020635-3.pom>nexus=

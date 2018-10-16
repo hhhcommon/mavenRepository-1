@@ -15,7 +15,9 @@
       <version>1.0.0.20180816-SNAPSHOT</version>
       <version>1.0.0.20180906-SNAPSHOT</version>
       <version>1.0.0.20180927-SNAPSHOT</version>
+      <version>1.0.0.20181030-SNAPSHOT</version>
+      <version>1.0.0.20181011-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180917091038</lastUpdated>
+    <lastUpdated>20181011014722</lastUpdated>
   </versioning>
 </metadata>

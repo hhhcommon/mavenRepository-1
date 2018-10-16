@@ -4,8 +4,8 @@
   <artifactId>wandaph-dsp-facade-impl</artifactId>
   <versioning>
     <versions>
-      <version>1.0.0.20180927-SNAPSHOT</version>
+      <version>1.0.0.20181030-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180913113202</lastUpdated>
+    <lastUpdated>20181015032737</lastUpdated>
   </versioning>
 </metadata>
